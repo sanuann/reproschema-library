@@ -15,11 +15,11 @@
         "choices": [
             {
                 "name": "Female (self-reported)",
-                "value": "http://purl.obolibrary.org/obo/NCIT_C46108"
+                "value": {"@id": "http://purl.obolibrary.org/obo/NCIT_C46108"}
             },
             {
                 "name": "Male (self-reported)",
-                "value": "http://purl.obolibrary.org/obo/NCIT_C46107"
+                "value": {"@id": "http://purl.obolibrary.org/obo/NCIT_C46107" }
             }
         ]
     }

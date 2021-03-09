@@ -15,11 +15,11 @@
         "choices": [
             {
                 "name": "Female",
-                "value": "http://schema.org/Female"
+                "value": {"@id": "http://schema.org/Female"}
             },
             {
                 "name": "Male",
-                "value": "http://schema.org/Male"
+                "value": {"@id": "http://schema.org/Male"}
             },
             {
                 "name": "Other",
